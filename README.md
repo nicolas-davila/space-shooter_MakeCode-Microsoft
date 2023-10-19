@@ -12,7 +12,7 @@ This repository can be added as an **extension** in MakeCode.
 * click on **Extensions** under the gearwheel menu
 * search for **https://github.com/nicolas-davila/space-shooter_makecode-microsoft** and import
 
-## Edit this project ![Build status badge](https://github.com/nicolas-davila/space-shooter_makecode-microsoft/workflows/MakeCode/badge.svg)
+## Edit this project (https://github.com/nicolas-davila/space-shooter_makecode-microsoft/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
